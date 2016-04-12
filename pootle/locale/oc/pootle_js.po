@@ -183,7 +183,7 @@ msgstr "Ignorar fichièrs"
 
 #: static/js/admin/components/Project/ProjectForm.js:116
 msgid "String Errors Contact"
-msgstr "Contacte per las errors dins las cadenas de caractères"
+msgstr "Contacte per las errors dins las cadenas de caractèrs"
 
 # Je ne suis pas sûr de moi !!
 #: static/js/admin/components/Project/ProjectForm.js:123
@@ -347,7 +347,7 @@ msgstr "L'apercebut s'aficharà aicí."
 #, python-format, javascript-format
 msgid "We have sent an email containing the special link to <span>%s</span>"
 msgstr ""
-"Nous avons envoyé un corrièr electronic contenant lo ligam spécial a "
+"Avèm envoyé un corrièr electronic contenant lo ligam spécial a "
 "<span>%s</span>"
 
 #: static/js/auth/components/AccountActivation.js:37
@@ -355,7 +355,7 @@ msgid ""
 "We have sent an email containing the special link to the address used to "
 "register this account."
 msgstr ""
-"Nous avons envoyé un corrièr electronic contenant lo ligam spécial a "
+"Avèm envoyé un corrièr electronic contenant lo ligam spécial a "
 "l'adreça email utilizada per enregistrar aqueste compte."
 
 #: static/js/auth/components/AccountActivation.js:41
@@ -389,7 +389,7 @@ msgid ""
 "The password reset link was invalid, possibly because it has already been "
 "used. Please request a new password reset."
 msgstr ""
-"Le ligam de reïnicializacion del senhal n'était pas correct, peut-être "
+"Lo ligam de reïnicializacion del senhal n'était pas correct, peut-être "
 "a-t-il déjà été utilisé ? Veuillez demander una novèla reïnicializacion de "
 "votre senhal."
 
@@ -456,7 +456,7 @@ msgstr ""
 
 #: static/js/auth/components/SignInPanel.js:60
 msgid "Social Services"
-msgstr "Caractères spéciaux"
+msgstr "Caractèrs especials"
 
 #: static/js/auth/components/SignInPanel.js:63
 msgid "Login / Password"
@@ -469,7 +469,7 @@ msgstr "S’inscriure"
 
 #: static/js/auth/components/SignUpForm.js:125
 msgid "Sign in as an existing user"
-msgstr "S'identifier en tant qu'utilizaire existant"
+msgstr "S'identificar en tant qu'utilizaire existent"
 
 #: static/js/auth/components/SocialAuthError.js:29
 #, python-format, javascript-format
@@ -484,7 +484,7 @@ msgstr ""
 # Différences entre "à novèl" e "de novèl", voir http://www.francaisfacile.com/exercices/exercice-francais-2/exercice-francais-8389.php
 #: static/js/auth/components/SocialAuthError.js:49
 msgid "Try again"
-msgstr "Essayez a novèl"
+msgstr "Ensajatz tornamai"
 
 #: static/js/auth/components/SocialSignInForm.js:38
 #, python-format, javascript-format
@@ -537,7 +537,7 @@ msgid ""
 "Go to the next string (Ctrl+.)<br/><br/>Also:<br/>Next page: Ctrl+Shift+.<br/"
 ">Last page: Ctrl+Shift+End"
 msgstr ""
-"Aller a la cadena seguenta (Ctrl+.)<br/><br/>Et aussi :<br/>Page seguenta : "
+"Anar a la cadena seguenta (Ctrl+.)<br/><br/>Et aussi :<br/>Page seguenta : "
 "Ctrl+Shift+.<br/>Darrièra page: Ctrl+Shift+Fin"
 
 #: static/js/editor/app.js:306
@@ -545,7 +545,7 @@ msgid ""
 "Go to the previous string (Ctrl+,)<br/><br/>Also:</br>Previous page: Ctrl"
 "+Shift+,<br/>First page: Ctrl+Shift+Home"
 msgstr ""
-"Aller a la page précédente (Ctrl+,)<br/><br/>Et aussi :</br>Page précédente :"
+"Anar a la page précédente (Ctrl+,)<br/><br/>Et aussi :</br>Page précédente :"
 " Ctrl+Shift+,<br/>Première page : Ctrl+Shift+Home"
 
 #: static/js/editor/app.js:411
@@ -615,7 +615,7 @@ msgstr "Seleccionar..."
 
 #: static/js/shared/components/FormSelectInput.js:33
 msgid "No results found"
-msgstr "Aucun resultat trouvé"
+msgstr "Aucun resultat trobat"
 
 #: static/js/shared/components/FormSelectInput.js:34
 msgid "Clear value"
@@ -733,7 +733,7 @@ msgstr[1] "I a %s setmanas"
 msgid "Yesterday"
 msgid_plural "%s days ago"
 msgstr[0] "Ièr"
-msgstr[1] "I a %s jours"
+msgstr[1] "I a %s jorns"
 
 #: static/js/utils.js:174
 #, javascript-format
@@ -943,7 +943,7 @@ msgid ""
 "Translated by %(fullname)s in &ldquo;<span title=\"%(path)s\">%(project)s</"
 "span>&rdquo; project %(time_ago)s"
 msgstr ""
-"Traduit per by %(fullname)s en &ldquo;<span title=\"%(path)s\""
+"Traduch per by %(fullname)s en &ldquo;<span title=\"%(path)s\""
 ">%(project)s</span>&rdquo; projècte"
 
 #: templates/editor/units/xhr_tm.html:18
@@ -952,7 +952,7 @@ msgid ""
 "Translated by %(fullname)s in &ldquo;<span title=\"%(path)s\">%(project)s</"
 "span>&rdquo; project"
 msgstr ""
-"Traduit per by %(fullname)s en &ldquo;<span title=\"%(path)s\""
+"Traduch per by %(fullname)s en &ldquo;<span title=\"%(path)s\""
 ">%(project)s</span>&rdquo; projècte"
 
 #~ msgid "Unknown error"
