@@ -87,7 +87,7 @@ msgstr "Còde"
 #: static/js/admin/components/Language/LanguageForm.js:59
 #: static/js/admin/components/Project/ProjectForm.js:61
 #: static/js/admin/components/User/UserForm.js:87
-#: static/js/user/components/UserPerfileForm.js:74
+#: static/js/user/components/UserProfileForm.js:74
 msgid "Full Name"
 msgstr "Nom complet"
 
@@ -106,7 +106,7 @@ msgstr "Eqüacion del plural"
 #: static/js/admin/components/Language/LanguageForm.js:95
 #: static/js/admin/components/Project/ProjectForm.js:141
 #: static/js/admin/components/User/UserForm.js:152
-#: static/js/user/components/UserPerfileForm.js:132
+#: static/js/user/components/UserProfileForm.js:132
 msgid "Save"
 msgstr "Enregistrar"
 
@@ -287,7 +287,7 @@ msgid "Administrator"
 msgstr "Administrator"
 
 #: static/js/admin/components/User/UserForm.js:112
-#: static/js/user/components/UserPerfileForm.js:92
+#: static/js/user/components/UserProfileForm.js:92
 msgid "Twitter"
 msgstr "Twitter"
 
@@ -296,16 +296,16 @@ msgid "Twitter username"
 msgstr "Nom d'utilizaire Twitter"
 
 #: static/js/admin/components/User/UserForm.js:121
-#: static/js/user/components/UserPerfileForm.js:101
+#: static/js/user/components/UserProfileForm.js:101
 msgid "LinkedIn"
 msgstr "LinkedIn"
 
 #: static/js/admin/components/User/UserForm.js:123
-msgid "LinkedIn perfile URL"
+msgid "LinkedIn profile URL"
 msgstr "URL de perfil LinkedIn"
 
 #: static/js/admin/components/User/UserForm.js:129
-#: static/js/user/components/UserPerfileForm.js:109
+#: static/js/user/components/UserProfileForm.js:109
 msgid "Website"
 msgstr "Site Web"
 
@@ -314,7 +314,7 @@ msgid "Personal website URL"
 msgstr "Vòstra URL de blog/site web personal"
 
 #: static/js/admin/components/User/UserForm.js:138
-#: static/js/user/components/UserPerfileForm.js:118
+#: static/js/user/components/UserProfileForm.js:118
 msgid "Short Bio"
 msgstr "Brève bio"
 
@@ -323,7 +323,7 @@ msgid "Personal description"
 msgstr "Descripcion personala"
 
 #: static/js/admin/components/User/UserForm.js:156
-msgid "Public Perfile"
+msgid "Public Profile"
 msgstr "Perfil public"
 
 #: static/js/admin/components/User/UserForm.js:157
@@ -652,32 +652,32 @@ msgstr "Replegar los detalhs"
 msgid "Expand details"
 msgstr "Desplegar los detalhs"
 
-#: static/js/user/components/UserPerfileEdit.js:95
-msgid "Edit My Public Perfile"
+#: static/js/user/components/UserProfileEdit.js:95
+msgid "Edit My Public Profile"
 msgstr "Editar mon perfil public"
 
-#: static/js/user/components/UserPerfileEdit.js:102
-msgid "My Public Perfile"
+#: static/js/user/components/UserProfileEdit.js:102
+msgid "My Public Profile"
 msgstr "Mon perfil public"
 
-#: static/js/user/components/UserPerfileEdit.js:117
+#: static/js/user/components/UserProfileEdit.js:117
 msgid "Discard changes."
 msgstr "Abandonar les modifications."
 
-#: static/js/user/components/UserPerfileEdit.js:118
+#: static/js/user/components/UserProfileEdit.js:118
 msgid "Yes"
 msgstr "Òc"
 
-#: static/js/user/components/UserPerfileEdit.js:119
+#: static/js/user/components/UserProfileEdit.js:119
 msgid "No"
 msgstr "Non"
 
-#: static/js/user/components/UserPerfileEdit.js:121
+#: static/js/user/components/UserProfileEdit.js:121
 msgid "There are unsaved changes. Do you want to discard them?"
 msgstr ""
 "I a changements qui ne sont pas salvats. Voulez-vous les anullar ?"
 
-#: static/js/user/components/UserPerfileForm.js:59
+#: static/js/user/components/UserProfileForm.js:59
 #, python-format
 msgid ""
 "To set or change your avatar for your email address (%(email)s), please go "
@@ -686,27 +686,27 @@ msgstr ""
 "Pour mettre ou modifier votre avatar per votre adresse email (%(email)s), "
 "veuillez aller a gravatar.com."
 
-#: static/js/user/components/UserPerfileForm.js:75
+#: static/js/user/components/UserProfileForm.js:75
 msgid "Your Full Name"
 msgstr "Vòstre nom complet"
 
-#: static/js/user/components/UserPerfileForm.js:83
+#: static/js/user/components/UserProfileForm.js:83
 msgid "Avatar"
 msgstr "Avatar"
 
-#: static/js/user/components/UserPerfileForm.js:94
+#: static/js/user/components/UserProfileForm.js:94
 msgid "Your Twitter username"
 msgstr "Vòstre nom d'utilizaire Twitter"
 
-#: static/js/user/components/UserPerfileForm.js:103
-msgid "Your LinkedIn perfile URL"
+#: static/js/user/components/UserProfileForm.js:103
+msgid "Your LinkedIn profile URL"
 msgstr "Vòstra URL de perfil LinkedIn"
 
-#: static/js/user/components/UserPerfileForm.js:111
+#: static/js/user/components/UserProfileForm.js:111
 msgid "Your Personal website/blog URL"
 msgstr "Vòstra URL de blog/site web personal"
 
-#: static/js/user/components/UserPerfileForm.js:120
+#: static/js/user/components/UserProfileForm.js:120
 msgid ""
 "Why are you part of our translation project? Describe yourself, inspire "
 "others!"
@@ -898,7 +898,7 @@ msgstr[1] "mots"
 
 #: templates/admin/xhr_paid_tasks_report.html:36
 msgid "Remove task"
-msgstr "Supprimer la prètzfach"
+msgstr "Suprimir la prètzfach"
 
 #: templates/admin/xhr_paid_tasks_report.html:41
 msgid "Comment on it"
