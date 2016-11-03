@@ -26,7 +26,7 @@ msgstr "Enregistrat amb succès."
 
 #: static/js/admin/components/AdminController.js:144
 msgid "Deleted successfully."
-msgstr "Suprtimit amb succès."
+msgstr "Suprimit amb succès."
 
 #: static/js/admin/components/ItemDelete.js:49
 msgid "Delete"
@@ -78,7 +78,7 @@ msgstr ""
 #: static/js/admin/components/Language/LanguageForm.js:52
 #: static/js/admin/components/Project/ProjectForm.js:54
 msgid "Code"
-msgstr "Còde"
+msgstr "Còdi"
 
 #: static/js/admin/components/Language/LanguageForm.js:59
 #: static/js/admin/components/Project/ProjectForm.js:61
@@ -191,11 +191,11 @@ msgstr "Lengas"
 
 #: static/js/admin/components/Search.js:68
 msgid "Load More"
-msgstr ""
+msgstr "Ne saber mai"
 
 #: static/js/admin/components/Search.js:92
 msgid "Loading..."
-msgstr ""
+msgstr "Cargament..."
 
 #: static/js/admin/components/User/UserAdd.js:28
 #: static/js/admin/components/User/UserEdit.js:33
@@ -243,7 +243,7 @@ msgstr ""
 #: static/js/auth/components/SignInForm.js:95
 #: static/js/auth/components/SignUpForm.js:83
 msgid "Username"
-msgstr ""
+msgstr "Nom d'utilizaire"
 
 #: static/js/admin/components/User/UserForm.js:69
 msgid "Active"
@@ -308,7 +308,7 @@ msgstr ""
 
 #: static/js/admin/components/User/UserForm.js:156
 msgid "Public Profile"
-msgstr ""
+msgstr "Perfil public"
 
 #: static/js/admin/components/User/UserForm.js:157
 msgid "Settings"
@@ -316,7 +316,7 @@ msgstr "Paramètres"
 
 #: static/js/admin/components/User/UserForm.js:158
 msgid "Statistics"
-msgstr ""
+msgstr "Estatisticas"
 
 #: static/js/admin/components/User/UserForm.js:159
 msgid "Reports"
@@ -350,7 +350,7 @@ msgstr ""
 #: static/js/auth/components/AccountInactive.js:35
 #: static/js/auth/components/EmailConfirmation.js:34
 msgid "Close"
-msgstr ""
+msgstr "Tampar"
 
 #: static/js/auth/components/AccountInactive.js:29
 msgid "Your account is inactive because an administrator deactivated it."
@@ -358,7 +358,7 @@ msgstr ""
 
 #: static/js/auth/components/AuthWindow.js:27
 msgid "Contact Us"
-msgstr ""
+msgstr "Contactatz-nos"
 
 #: static/js/auth/components/EmailConfirmation.js:28
 msgid "This email confirmation link expired or is invalid."
@@ -495,7 +495,7 @@ msgstr ""
 
 #: static/js/auth/containers/Auth.js:131
 msgid "Oops..."
-msgstr ""
+msgstr "Ops..."
 
 #: static/js/auth/containers/Auth.js:137
 msgid "Social Verification"
@@ -582,7 +582,7 @@ msgstr "Traduccions similaras"
 
 #: static/js/shared/components/FormSelectInput.js:32
 msgid "Select..."
-msgstr ""
+msgstr "Seleccionar..."
 
 #: static/js/shared/components/FormSelectInput.js:33
 msgid "No results found"
@@ -638,11 +638,11 @@ msgstr ""
 
 #: static/js/user/components/UserProfileEdit.js:118
 msgid "Yes"
-msgstr ""
+msgstr "Òc"
 
 #: static/js/user/components/UserProfileEdit.js:119
 msgid "No"
-msgstr ""
+msgstr "Non"
 
 #: static/js/user/components/UserProfileEdit.js:121
 msgid "There are unsaved changes. Do you want to discard them?"
@@ -661,7 +661,7 @@ msgstr ""
 
 #: static/js/user/components/UserProfileForm.js:83
 msgid "Avatar"
-msgstr ""
+msgstr "Avatar"
 
 #: static/js/user/components/UserProfileForm.js:94
 msgid "Your Twitter username"
