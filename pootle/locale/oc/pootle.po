@@ -42,7 +42,7 @@ msgstr ""
 
 #: apps/accounts/models.py:68
 msgid "Enter a valid username."
-msgstr ""
+msgstr "Entratz un nom d'utilizaire valid"
 
 # 92%
 #: apps/accounts/models.py:72
@@ -173,7 +173,6 @@ msgid "Contact Us"
 msgstr "Nos contactar"
 
 #: apps/contact/views.py:66
-#, fuzzy
 msgid "Report problem with string"
 msgstr "Senhalar un problèma amb la cadena font"
 
@@ -219,7 +218,7 @@ msgstr "Une error s'es producha pendent lo mandadís del fichièr"
 
 #: apps/pootle_app/forms.py:38
 msgid "Language code does not follow the ISO convention"
-msgstr "Lo còde de lenga seguís pas la norma ISO"
+msgstr "Lo còdi de lenga seguís pas la norma ISO"
 
 #: apps/pootle_app/forms.py:46 apps/pootle_project/models.py:186
 msgid "Source Language"
@@ -228,7 +227,7 @@ msgstr "Lenga d'origina"
 #: apps/pootle_app/forms.py:95
 #, python-format
 msgid "\"%s\" cannot be used as a project code"
-msgstr "Impossible d'utilizar «%s» coma còde de projècte"
+msgstr "Impossible d'utilizar «%s» coma còdi de projècte"
 
 #: apps/pootle_app/forms.py:102 custom/templates/profiles/_tabs.html:5
 msgid "Password"
@@ -304,7 +303,7 @@ msgstr ""
 
 #: apps/pootle_language/models.py:68 apps/pootle_project/models.py:154
 msgid "Code"
-msgstr "Còde"
+msgstr "Còdi"
 
 #: apps/pootle_language/models.py:69
 msgid ""
@@ -312,8 +311,8 @@ msgid ""
 "(_) and an ISO 3166 country code. <a href=\"http://www.w3.org/International/"
 "articles/language-tags/\">More information</a>"
 msgstr ""
-"Còde ISO 639 de la lenga, eventualament seguit d'un caractèr de solinhament "
-"(_) e del còde ISO 3166 d'un país. <a href=\"http://www.w3.org/International/"
+"Còdi ISO 639 de la lenga, eventualament seguit d'un caractèr de solinhament "
+"(_) e del còdi ISO 3166 d'un país. <a href=\"http://www.w3.org/International/"
 "articles/language-tags/\">Mai d'informacions</a>"
 
 #: apps/pootle_language/models.py:78 templates/languages/_nav.html:31
@@ -532,7 +531,7 @@ msgstr "Pas cambiats"
 #: apps/pootle_store/util.py:30 core/helpers.py:49
 #: templates/editor/_filters.html:9
 msgid "Untranslated"
-msgstr "Pas traduch"
+msgstr "Pas traduit"
 
 #: apps/pootle_misc/checks.py:84
 msgid "URLs"
@@ -540,7 +539,7 @@ msgstr "URL"
 
 #: apps/pootle_misc/checks.py:85
 msgid "Valid characters"
-msgstr "Caractèrs valables"
+msgstr "Caractèrs valids"
 
 #: apps/pootle_misc/checks.py:86
 msgid "Placeholders"
@@ -663,7 +662,6 @@ msgid "Percent brace placeholders"
 msgstr ""
 
 #: apps/pootle_misc/checks.py:118
-#, fuzzy
 msgid "Plurr format"
 msgstr "Forma plurala %d"
 
@@ -708,7 +706,7 @@ msgstr "Total"
 #: apps/pootle_misc/stats.py:25 apps/pootle_store/util.py:32 core/helpers.py:48
 #: templates/editor/_filters.html:7
 msgid "Translated"
-msgstr "Traduch"
+msgstr "Traduit"
 
 #: apps/pootle_misc/templatetags/render_pager.py:23
 msgid "First"
@@ -740,7 +738,7 @@ msgid ""
 "A short code for the project. This should only contain ASCII characters, "
 "numbers, and the underscore (_) character."
 msgstr ""
-"Còde cort pel projècte. Pòt pas comportar que de caractèrs ASCII, de chifras "
+"Còdi cort pel projècte. Pòt pas comportar que de caractèrs ASCII, de chifras "
 "e lo caractèr de solinhament (_)."
 
 #: apps/pootle_project/models.py:169
@@ -757,7 +755,7 @@ msgstr "Deteccion autometica (mai lent)"
 
 #: apps/pootle_project/models.py:177
 msgid "GNU style: files named by language code"
-msgstr "Estil GNU : los fichièrs son nomenats d'aprèp lo còde de la lenga"
+msgstr "Estil GNU : los fichièrs son nomenats d'aprèp lo còdi de la lenga"
 
 #: apps/pootle_project/models.py:178
 msgid "Non-GNU: Each language in its own directory"
@@ -819,7 +817,7 @@ msgstr "Regetar la suggestion de %s"
 
 #: apps/pootle_store/decorators.py:26
 msgid "Insufficient rights to access this directory."
-msgstr "Avètz pas los dreches sufisents per accedir a aquesta repertòri."
+msgstr "Avètz pas los dreits sufisents per accedir a aquesta repertòri."
 
 #: apps/pootle_store/decorators.py:29
 msgid "Insufficient rights to access suggestion mode."
@@ -831,7 +829,7 @@ msgstr "Permissions insufisentas per accedir a aqueste mòde de traduccion."
 
 #: apps/pootle_store/decorators.py:31 apps/pootle_store/views.py:698
 msgid "Insufficient rights to access review mode."
-msgstr "Avètz pas los dreches sufisents per accedir al mòde de relectura."
+msgstr "Avètz pas los dreits sufisents per accedir al mòde de relectura."
 
 #: apps/pootle_store/filetypes.py:20
 msgid "Gettext PO"
@@ -839,11 +837,11 @@ msgstr "PO per Gettext"
 
 #: apps/pootle_store/filetypes.py:24
 msgid "XLIFF (.xlf)"
-msgstr ""
+msgstr "XLIFF (.xlf)"
 
 #: apps/pootle_store/filetypes.py:25
 msgid "XLIFF (.xliff)"
-msgstr ""
+msgstr "XLIFF (.xliff)"
 
 #: apps/pootle_store/filetypes.py:31
 msgid "Qt ts"
@@ -1881,7 +1879,7 @@ msgstr ""
 
 #: templates/admin/reports/paid_task_form.html:5
 msgid "Add Task"
-msgstr "Apondre un prètafach"
+msgstr "Apondre un prètzfait"
 
 #: templates/admin/reports/paid_task_form.html:23
 msgid "words"
@@ -2200,7 +2198,7 @@ msgstr "Terminologia :"
 
 #: templates/editor/units/edit.html:49
 msgid "Insert the translated term into the editor"
-msgstr "Inserir lo tèrme traduch dins l'editor"
+msgstr "Inserir lo tèrme traduit dins l'editor"
 
 #: templates/editor/units/edit.html:62
 msgid "Comments:"
@@ -2422,7 +2420,7 @@ msgstr "Error del servidor"
 
 #: templates/errors/500.html:10
 msgid "A server error has occurred. Thank you for your patience."
-msgstr "Una error s'es producha. Pacientatz."
+msgstr "Una error s'es produita. Pacientatz."
 
 #: templates/errors/500.html:16
 msgid "Exception:"
@@ -3309,8 +3307,8 @@ msgstr ""
 
 #~ msgid "%(projects)d project, %(average)d%% translated"
 #~ msgid_plural "%(projects)d projects, %(average)d%% translated"
-#~ msgstr[0] "%(projects)d projècte, %(average)d%% traduch"
-#~ msgstr[1] "%(projects)d projèctes, %(average)d%% traduches"
+#~ msgstr[0] "%(projects)d projècte, %(average)d%% traduit"
+#~ msgstr[1] "%(projects)d projèctes, %(average)d%% traduits"
 
 #~ msgid "No description yet."
 #~ msgstr "Pas cap de descripcion pel moment."
@@ -3336,19 +3334,19 @@ msgstr ""
 #~ msgid_plural ""
 #~ "This folder has %(num)d words, %(percentage)d%% of which are translated."
 #~ msgstr[0] ""
-#~ "Aqueste dorsièr conten %(num)d mot, que %(percentage)d %% n'es traduch."
+#~ "Aqueste dorsièr conten %(num)d mot, que %(percentage)d %% n'es traduit."
 #~ msgstr[1] ""
 #~ "Aqueste dorsièr conten %(num)d mots, que %(percentage)d %% ne son "
-#~ "traduches."
+#~ "traduits."
 
 #~ msgid "This file has %(num)d word, %(percentage)d%% of which is translated."
 #~ msgid_plural ""
 #~ "This file has %(num)d words, %(percentage)d%% of which are translated."
 #~ msgstr[0] ""
-#~ "Aqueste dorsièr conten %(num)d mot, que %(percentage)d %% n'es traduch."
+#~ "Aqueste dorsièr conten %(num)d mot, que %(percentage)d %% n'es traduit."
 #~ msgstr[1] ""
 #~ "Aqueste dorsièr conten %(num)d mots, que %(percentage)d %% ne son "
-#~ "traduches."
+#~ "traduits."
 
 #~ msgid "Continue translation (%(num)d word left)"
 #~ msgid_plural "Continue translation (%(num)d words left)"
@@ -3370,8 +3368,8 @@ msgstr ""
 
 #~ msgid "%d word untranslated"
 #~ msgid_plural "%d words untranslated"
-#~ msgstr[0] "%d mot pas traduch"
-#~ msgstr[1] "%d mots pas traduches"
+#~ msgstr[0] "%d mot pas traduit"
+#~ msgstr[1] "%d mots pas traduits"
 
 #~ msgid "%d word needs review"
 #~ msgid_plural "%d words need review"
@@ -3440,8 +3438,8 @@ msgstr ""
 
 #~ msgid "%(languages)d language, %(average)d%% translated"
 #~ msgid_plural "%(languages)d languages, %(average)d%% translated"
-#~ msgstr[0] "%(languages)d lenga, %(average)d%% traduch"
-#~ msgstr[1] "%(languages)d lengas, %(average)d%% traduch"
+#~ msgstr[0] "%(languages)d lenga, %(average)d%% traduit"
+#~ msgstr[1] "%(languages)d lengas, %(average)d%% traduit"
 
 #~ msgid "Update against templates"
 #~ msgstr "Metre a jorn d'aprèp los fichièrs modèls"
@@ -3991,10 +3989,10 @@ msgstr ""
 #~ "%(type)s: %(translated)d of %(total)d strings translated (%(fuzzy)d "
 #~ "fuzzy)."
 #~ msgstr[0] ""
-#~ "%(type)s : %(total)d cadena, dont %(translated)d cadena traducha "
+#~ "%(type)s : %(total)d cadena, dont %(translated)d cadena traduita "
 #~ "(aproximatiu : %(fuzzy)d)."
 #~ msgstr[1] ""
-#~ "%(type)s : %(total)d cadenas, dont %(translated)d cadena(s) traducha(s) "
+#~ "%(type)s : %(total)d cadenas, dont %(translated)d cadena(s) traduita(s) "
 #~ "(aproximatiu : %(fuzzy)d)."
 
 #~ msgid "Display on registration"
